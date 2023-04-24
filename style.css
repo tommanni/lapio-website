@@ -1,3 +1,15 @@
-p {
-  background-color: red;
+h1 {
+  color: blue;
+}
+
+.ruskea {
+  color: brown;
+}
+
+ul {
+  color: violet;
+}
+
+#punainen-kohta {
+  color: red;
 }
